@@ -5,6 +5,8 @@ html {
 body {
   font-family: 'Poppins', sans-serif;
   margin: 0;
+  color: #de3df3;
+  background-color: #ffeefe;
 }
 
 .song {
@@ -60,7 +62,7 @@ body {
 }
 
 .text-box .fake-btn {
-  background-color: rgb(21, 161, 237);
+  background-color: rgb(224, 27, 231);
   border-radius: 3px;
   bottom: -50px;
   color: #fff;
@@ -162,13 +164,13 @@ body {
 }
 
 .eight svg:nth-child(3) {
-  fill: #349d8b;
+  fill: #e45ece;
   left: 23vw;
   top: 33vh;
 }
 
 .eight svg:nth-child(4) {
-  fill: #347a9d;
+  fill: #e430d2;
   left: 57vw;
   top: 43vh;
 }
